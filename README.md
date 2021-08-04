@@ -1,7 +1,7 @@
 # urltopdf: a Go PDF generator
 
 urltopdf is a command line tool to generate a PDF from a URL.
-The heavy lifting is done by [Chrome DevTools Protocol clients and tools for Go](github.com/chromedp).
+The heavy lifting is done by [Chrome DevTools Protocol clients and tools for Go](https://github.com/chromedp).
 
 ## Usage
 
